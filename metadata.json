@@ -1,0 +1,6 @@
+{
+  "name": "Command Console",
+  "description": "Real-time network traffic monitoring, automated threat detection, deep packet inspection, and AI-powered blue team incident response console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
